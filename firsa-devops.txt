@@ -1,0 +1,3 @@
+Firsa Resolusi DevOps
+- Niat Belajar Setidaknya 1 Jam sehari
+- Belajar Continous Integration & Continous Delivery
