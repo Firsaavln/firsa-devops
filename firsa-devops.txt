@@ -1,3 +1,6 @@
 Firsa Resolusi DevOps
 - Niat Belajar Setidaknya 1 Jam sehari
+- Belajar Network Basic
 - Belajar Continous Integration & Continous Delivery
+- Belajar Github & Gitlabs
+- Belajar Docker (Kubernes)
