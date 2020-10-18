@@ -4,4 +4,4 @@ Firsa Resolusi DevOps
 - Belajar Continous Integration & Continous Delivery
 - Belajar Github & Gitlabs
 - Belajar Docker (Kubernes)
-- Belajar Cloud Platform
+
